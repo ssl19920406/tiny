@@ -1,4 +1,4 @@
-# tiny
+# nicholas-chaowei
 个人用于研究NPM的库
 
 # Install
